@@ -14,5 +14,6 @@ Practice a common application of JavaScript code utilized within many popular we
 
 
 ## Screenshot
-<img src="./assets/images/module-03-screenshot.png" width="650">
+<img src= "./assets/module-03-screenshot.png" width="650">
+
 

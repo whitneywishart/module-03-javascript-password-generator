@@ -14,6 +14,6 @@ https://whitneywishart.github.io/module-03-javascript-password-generator/<br><br
 
 
 ## Screenshot
-<img src= "./assets/module-03-screenshot.png" width="650">
+<img src= "./Assets/module-03-screenshot.png" width="650">
 
 
